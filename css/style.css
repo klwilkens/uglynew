@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+    color: aquamarine;
+    background-image: url(/img/queen.jpg);
+}
+
+h2{
+    color: blanchedalmond;
+}
+
+h1{
+    color: blue;
+    background-color: rgb(240, 232, 70);
+    margin: auto;
+    font: bold
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Italiana&family=Jacquarda+Bastarda+9&display=swap');
